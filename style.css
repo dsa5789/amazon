@@ -1214,15 +1214,18 @@ body
     height: 100vh;
     display: flex;
     gap: 20px;
+    
+}
+.rasmi3ichki1{
+    width: 274px;
+    height: 200px;
+}
+.rasm3ichki:hover{
     animation-name: rasm3;
     animation-duration: 20s;
     animation-direction: alternate; 
     animation-iteration-count: infinite;
     animation-timing-function: linear;
-}
-.rasmi3ichki1{
-    width: 274px;
-    height: 200px;
 }
 @keyframes rasm3 {
     from{
